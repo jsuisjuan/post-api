@@ -1,4 +1,3 @@
-from typing import List
 from app import schemas
 import pytest
 
